@@ -2,10 +2,10 @@
 
 ## Contents
 
-* Meet the Golem
-* Skeleton Murders
-* Spawning Drought
-* Growth
+* [Meet the Golem](#Meet-the-golem)
+* [Skeleton Murders](#Skeleton-Murders)
+* [Spawning Drought](#Spawning-Drought)
+* [Growth](#Growth)
 
 ### Meet the Golem
 In the beginning there were one iron golem in the village. He is there to protect the people. As he gets damaged, he rusts and eventually dissapears. More iron golems spawn if there is a village of people with atleast 75% of them having worked in the past day. To learn more about the iron golem, click [here.](https://minecraft.fandom.com/wiki/Iron_Golem)
@@ -28,3 +28,5 @@ For more Iron Golems to spawn, there needs to be a bed assigned to each villager
 
 ### Growth
 After the murdering of the derganged villagers, more iron golems were able to spawn. Their population is now up to 8!
+
+[top](#Golem-generator)
