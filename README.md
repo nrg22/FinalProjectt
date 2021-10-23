@@ -2,6 +2,6 @@
 
 ### [My Minecraft Storyline](Storyline.md)
 ### [Farmer Foe](FarmerFoe.md)
-### Golem Generator
+### [Golem Generator](GolemGenerator.md)
 ### Lost Librarian
 ### Fletcher Fiasco
