@@ -2,11 +2,11 @@
 
 ## Contents
 
-* Meet the Farmer
-* Potatoe Drought
-* Taxes
-* Resistance
-* Forgiveness
+* [Meet the Farmer](#Meet-the-Farmer)
+* [Potatoe Drought](#Potatoe-Drought)
+* [Taxes](#taxes)
+* [Resistance](#Resistance)
+* [Forgiveness](#Forgiveness)
 
 ### Meet the Farmer 
 In the beginning there were three farmers in the village. During the period of liberation, Steve took away all the farming jobs. After making a farm, only one farmer was allowed to work. To view farmer's potential trades, click [here.](https://minecraft.fandom.com/wiki/Trading#Farmer)
@@ -32,3 +32,5 @@ The working block is what gives the villager there job. Without it, they are une
 
 ### Forgiveness
 After a couple of days and trades, the farmer forgave Steve, and now they are on good terms.
+
+[top](#farmer-foe)
