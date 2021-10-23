@@ -2,7 +2,7 @@
 
 ## Introduction Page
 
-* What is Minecraft
+* [What is Minecraft](#What-is-Minecraft)
 * My Storyline
 * History of Oppression
 * Period of Liberation
@@ -10,7 +10,7 @@
 * Villager Roles
 * Gallery
 
-### What is Minecraft
+## What is Minecraft
 Minecraft is a game where a player is inserted into a 3D world with infinite terrain. There is no designated objective. Players are free to choose what to do, which typically includes exploring, extracting raw materials, and creating tools and structures.
 
 ### My Storyline
