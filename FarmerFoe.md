@@ -1,5 +1,5 @@
 # Farmer Foe
-
+[back to mainpage](README.md)
 ## Contents
 
 * [Meet the Farmer](#Meet-the-Farmer)
