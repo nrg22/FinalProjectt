@@ -4,4 +4,4 @@
 ### [Farmer Foe](FarmerFoe.md)
 ### [Golem Generator](GolemGenerator.md)
 ### [Lost Librarian](LostLibrarian.md)
-### Fletcher Fiasco
+### [Fletcher Fiasco](FletcherFiasco.md)
