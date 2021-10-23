@@ -1,5 +1,5 @@
 # Golem Generator
-
+[back to mainpage](README.md)
 ## Contents
 
 * [Meet the Golem](#Meet-the-golem)
