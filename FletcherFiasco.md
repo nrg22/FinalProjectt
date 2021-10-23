@@ -2,10 +2,10 @@
 
 ## Contents
 
-* Meet Fletcher #1
-* Fletcher #2
-* Fletcher #3
-* Rehabilitation
+* [Meet Fletcher #1](#Meet-fletcher-#1)
+* [Fletcher #2](#Fletcher-#2)
+* [Fletcher #3](#Fletcher-#3)
+* [Rehabilitation](#Rehabilitation)
 
 ### Meet Fletcher #1
 The fletcher is one of the most important villager roles one could have. They are responsbile for creating arrows at an affordable price, which is essential for protecting the village. He also has cheap trades like sticks, flint, and string which he will reward with gems. The first fletcher was so useful, that he was the first in the village to become a journeyman To learn more about the fletcher, click [here.](https://minecraft.fandom.com/wiki/Trading#Fletcher_2)
@@ -26,3 +26,5 @@ After a long convincing, Steve was able to bring the fletcher #1 back to his wor
 
 *Image of fletcher **workblock***
 ![FLetching table](https://user-images.githubusercontent.com/89501767/138540706-805e1d6d-3e2d-4987-b7c3-a2eb077d6a75.jpg)
+
+[top](#Fletcher-Fiasco)
