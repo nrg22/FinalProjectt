@@ -2,9 +2,9 @@
 
 ## Contents
 
-* Meet the Librarian
-* The first librarian
-* The second librarian
+* [Meet the Librarian](#Meet-the-librarian)
+* [The first librarian](#The-first-librarian)
+* [The second librarian](#the-second-librarian)
 
 ### Meet the Librarian
 The librarian is very useful to the village. Because of this, he is housed in the main palace, leading directly to the townsquare. In the temple, he is on the left side, and the cleric is on the right. After enough upgrading, the librarian can trade enchanted books. To learn more about the librarian, click [here.](https://minecraft.fandom.com/wiki/Trading#Librarian)
@@ -24,3 +24,4 @@ The first librarian was very kind and humble. He believed that everyone should h
 ### The second librarian
 One of the children who the librarian often spoke to, grew up and decided to be the librarian. He is still the only librarian in the town, and although more introverted, still follows the philospohy of the previous librarian and shares knowledge with the whole town.
 
+[top](#Lost-librarian)
