@@ -1,5 +1,7 @@
 # Storyline
 
+[mainpage](readme.md)
+
 ## Introduction Page
 
 * [What is Minecraft](#What-is-Minecraft)
