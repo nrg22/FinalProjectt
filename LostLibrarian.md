@@ -1,5 +1,5 @@
 # Lost Librarian
-
+[back to mainpage](README.md)
 ## Contents
 
 * [Meet the Librarian](#Meet-the-librarian)
