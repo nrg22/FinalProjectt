@@ -1,6 +1,6 @@
 # Storyline
 
-[mainpage](readme.md)
+[back to mainpage](README.md)
 
 ## Introduction Page
 
