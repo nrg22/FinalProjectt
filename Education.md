@@ -1,36 +1,55 @@
-# Farmer Foe
-[back to mainpage](README.md)
-## Contents
+<!DOCTYPE html>
+<html>
+<body>
 
-* [Meet the Farmer](#Meet-the-Farmer)
-* [Potatoe Drought](#Potatoe-Drought)
-* [Taxes](#taxes)
-* [Resistance](#Resistance)
-* [Forgiveness](#Forgiveness)
+<h1>Education</h1>
+ <ol>
+  <li>General</li>
+  <li>Relevant Coursework</li>
+  <li>Awards</li>
+  <li>High School</li>
+</ol>
+ 
+  <h3>General</h3>
+  <table>
+  <tr>
+    <th>School</th>
+    <th>University of Missouri</th>
+    <th>Columbia</th>
+  </tr>
+  <tr>
+    <td>Bachelor of Science</td>
+    <td>Economics</td>
+    <td>May 2023</td>
+  </tr>
+  <tr>
+    <td>Minor</td>
+    <td>Business</td>
+    <td>3.82/4.00 GPA</td>
+  </tr>
+</table>
+  
+  <h3>Relevant Coursework</h3>
+  <p>
+  <b>Relevant Coursework Includes:</b> Spanish 1,2,3, Advanced Spanish Composition, Principles of Macroeconomics <i>(Honors Course)</i>, Accounting 1, Intermediate Microeconomics, Information Technology, Cases and Contracts in American Law <i>(Honors Course)</i>
+  </p>
+  
+  <h3>Awards</h3>
+  <ul>
+  <li>Arts and Science Dean's List all semesters</li>
+  <li>Completed 12 hours of Honor’s College coursework/li>
+  <li>Mike Podgursky Scholars Award: nominated by instructor for academic excellence in principles of Economics <i>(February 2021)</i>/li>
+</ul>
+  <h3>High School</h3>
+<table>
+  <tr>
+    <th>School</th>
+    <th>Raytown High School</th>
+    <th>3.85/4.00 GPA</th>
+    <th>May 2019</th>
+  </tr>
+  </table>
+<p>National Qualifier in Lincoln Douglas Debate, Big Question Debate, and Impromptu Speaking</p>
 
-### Meet the Farmer 
-In the beginning there were three farmers in the village. During the period of liberation, Steve took away all the farming jobs. After making a farm, only one farmer was allowed to work. To view farmer's potential trades, click [here.](https://minecraft.fandom.com/wiki/Trading#Farmer)
-
-*Image of Farmer*
-
-![Farmer](https://user-images.githubusercontent.com/89501767/138539679-9c4873a8-b2a5-4b62-b753-0f71e882a974.png)
-
-
-### Potatoe Drought
-This farmer was traded with until he became an apprentice. Steve decided it was time to give him another work companion. After a discovery of **potatoes** were made in an abandoned ship, they were planted in the same farm. Soon, both the farmers replaced the potatoe plants with wheat leaving a drought in potatoes with no other possibility of getting more. This angered Steve and took the other work companion away.
-
-*Example of Shipwreck*
-
-![Shipwreck](https://user-images.githubusercontent.com/89501767/138539949-15bce6f9-5194-4a64-81f1-b202f9d63c3a.jpg)
-
-
-### Taxes
-With this background in mind, Steve was trying to encourage mating between the villagers to increase the population. The farmer got mad at Steve's attempts and began to tax him, and tell other workers to also tax steve. With steve in control of the economy, a recession was about to begin if prices were to high. And so, Steve destroyed the farmer's working block.
-
-### Resistance
-The working block is what gives the villager there job. Without it, they are unemployed. Despite this, the farmer retained his position as the town farmer, and Steve had no other option but to return the block.
-
-### Forgiveness
-After a couple of days and trades, the farmer forgave Steve, and now they are on good terms.
-
-[top](#farmer-foe)
+</body>
+</html>
