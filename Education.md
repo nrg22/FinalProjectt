@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<a href="readme.md">Back</a></h>
+<a href="README.md">Back</a></h>
 <h1>Education</h1>
  <ol>
   <li>General</li>
