@@ -30,7 +30,7 @@
   
   <h4><b>Description Of Classess</b></h3>
   
-  <h5>English</h5>
+ <h5><b>English</b></h5>
   <h6><i>Exposition and Argumentation</i></h6>
     <p> 
 <ul>
@@ -53,7 +53,7 @@
 </ul>
   </p>
   
-  <h5>Spanish</h5>
+  <h5><b>Spanish</b></h5>
   <h6><i>Spanish 1, Spanish 2, and Spanish 3</i></h6>
     <p> 
 <ul>
