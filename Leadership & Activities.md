@@ -110,10 +110,14 @@
   
   
 
- <p> <a href="https://missouri.edu/">University of Missouri-Columbia</a> </p>
- <img src="https://user-images.githubusercontent.com/89501767/144733393-c439bb29-c481-48c4-9fed-0e15516da069.png" alt="University Of Missouri">
- <p> <a href="https://www.raytownschools.org/rhs">Raytown High School</a> </p>
-  <img src="https://user-images.githubusercontent.com/89501767/144733455-3143c68e-b5ad-4eea-ac59-aa6fb34bc9c5.jpg" alt="Raytown High School">
+ <p> <a href="https://missouri.campuslabs.com/engage/">Association of Latin American Students</a> </p>
+ <img src="https://user-images.githubusercontent.com/89501767/144776074-699409f0-3f3d-4d45-9a30-a8ea0b5dbefe.png" alt="ALAS">
+ 
+  <p> <a href="https://trio.missouri.edu/">TRiO Student Support Services</a> </p>
+ <img src="https://user-images.githubusercontent.com/89501767/144776228-c9ae1a13-2dd8-473b-b259-33dad9267a4f.jpg" alt="TRiO">
+ 
+  <p> <a href="https://www.pad.org/">Phi Alpha Delta</a> </p>
+ <img src="https://user-images.githubusercontent.com/89501767/144776325-87165740-e48b-46b7-b979-bfc4ee2f2adb.png" alt="PAD">
 
 </body>
 </html>
