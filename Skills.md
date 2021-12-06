@@ -1,27 +1,85 @@
-# Lost Librarian
-[back to mainpage](README.md)
-## Contents
+<!DOCTYPE html>
+<html>
+<body>
+<a href="README.md">Back</a></h>
+<h1>Skills</h1>
+ <ol>
+  <li>Languages</li>
+  <li>English</li>
+  <li>Spanish</li>
+</ol>
+ 
+  <h3>Languages</h3>
+  <table>
+  <tr>
+    <th>Language</th>
+    <th>Level</th>
+    <th>Classwork</th>
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>Fluent</td>
+    <td>Exposition and Argumentation, The Early Modern World, Cases and Contracts</td>
+  </tr>
+    <tr>
+    <td>Spanishh</td>
+    <td>Fluent</td>
+    <td>Spanish 1, Spanish 2, Spanish 3, Advanced Spanish Composition</td>
+  </tr>
+</table>
+  
+  <h4><b>Description Of Classess</b></h3>
+  
+  <h5>English</h5>
+  <h6><i>Exposition and Argumentation</i></h6>
+    <p> 
+<ul>
+  <li>Developed storylines and created personal essays on growth.</li>
+  <li>Studied rhetoric and how to perfect argumenation.</li>
+</ul>
+  </p>
+  <h6><i>The Early Modern World</i></h6>
+    <p> 
+<ul>
+  <li>Studied intellectual thought from 1400 to 1900</li>
+  <li>Wrote 28 Essays over philosphy, art, books and literature.</li>
+</ul>
+  </p>
+  <h6><i>Cases and Contracts</i></h6>
+    <p> 
+<ul>
+  <li>Drafted memos over torts, criminal law, contract law, constitutional law and landlord-tenant law</li>
+  <li>Heard from various professionals in the field.</li>
+</ul>
+  </p>
+  
+  <h5>Spanish</h5>
+  <h6><i>Spanish 1, Spanish 2, and Spanish 3</i></h6>
+    <p> 
+<ul>
+  <li>Before coming to University, I completed all 5 Spanish course levels my school offered.</li>
+  <li>I tested outside of these three levels on the undergraduate level.</li>
+</ul>
+  </p>
+  <h6><i>Advanced Spanish Composition</i></h6>
+    <p> 
+<ul>
+  <li>Studied grammar and completed assignments over sentence structure</li>
+  <li>Wrote Essays over Spanish literature from different time periods and countries.</li>
+</ul>
+  </p>
+  
+ 
+ 
+ 
+ <p> <a href="https://www.cheddars.com/home">Cheddars Scratch Kitchen</a> </p>
+ <img src="https://user-images.githubusercontent.com/89501767/144777780-5f63e670-dc17-484d-ada5-b0d8cb52486e.jpg" alt="8">
+ 
+  <p> <a href="https://www.amazon.com/">Amazon</a> </p>
+ <img src="https://user-images.githubusercontent.com/89501767/144777895-5eb7f4dc-7c43-44e9-b379-1efbb18c7b88.jpg" alt="Ama">
+ 
+  <p> <a href="https://www.dairyqueen.com/en-us/">Dairy Queen</a> </p>
+ <img src="https://user-images.githubusercontent.com/89501767/144778002-ef62a342-479b-47ae-8e3e-41d6a2f351be.png" alt="DQ">
 
-* [Meet the Librarian](#Meet-the-librarian)
-* [The first librarian](#The-first-librarian)
-* [The second librarian](#the-second-librarian)
-
-### Meet the Librarian
-The librarian is very useful to the village. Because of this, he is housed in the main palace, leading directly to the townsquare. In the temple, he is on the left side, and the cleric is on the right. After enough upgrading, the librarian can trade enchanted books. To learn more about the librarian, click [here.](https://minecraft.fandom.com/wiki/Trading#Librarian)
-
-*Image of Librarian*
-
-![Librarian](https://user-images.githubusercontent.com/89501767/138540369-4d7cbed2-470f-48ad-90c4-cb2ec000179d.png)
-
-### The first librarian
-The first librarian was very kind and humble. He believed that everyone should have the knowledge he read in his books. He would go around talking to regular villagers about the things he learned. Unfortunately one night, a zombie spawned in the palace and converted him into a zombie. Although potions could be created to heal him, there was no cleric at the time, and the town wasn't developed enought to know how. An iron golem later took his life as he tried to attack the townsman. 
-
-*Example of converted librarian*
-
-![Converted Librarian](https://user-images.githubusercontent.com/89501767/138540423-94254d10-6a47-4ae4-bee3-c8d5d8af1d95.jpg)
-
-
-### The second librarian
-One of the children who the librarian often spoke to, grew up and decided to be the librarian. He is still the only librarian in the town, and although more introverted, still follows the philospohy of the previous librarian and shares knowledge with the whole town.
-
-[top](#Lost-librarian)
+</body>
+</html>
