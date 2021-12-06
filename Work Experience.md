@@ -1,32 +1,100 @@
-# Golem Generator
-[back to mainpage](README.md)
-## Contents
+<!DOCTYPE html>
+<html>
+<body>
+<a href="README.md">Back</a></h>
+<h1>Work Experience</h1>
+ <ol>
+  <li>Cheddars Scratch Kitchen</li>
+  <li>Amazon</li>
+  <li>Dairy Queen</li>
+ 
+</ol>
+ 
+  <h3>Cheddars Scratch Kitchen</h3>
+  <table>
+  <tr>
+    <th>Position</th>
+    <th>Average hours/week</th>
+    <th>Location</th>
+    <th>Time</th>
+  </tr>
+  <tr>
+    <td>Server</td>
+    <td>25</td>
+    <td>Independence & Columbia, MO</td>
+    <td>March 2019-Present</td>
+  </tr>
+</table>
+  
+  <h4><b>Description Of Positions</b></h3>
+  <h5><i>Server</i></h5>
+    <p> 
+<ul>
+  <li>Earned the trust of management of both locations, and was allowed to transfer freely between academic breaks.</li>
+  <li>Waited tables (up to 30 guests at a time), and trained new servers on company standards and requirements.</li>
+</ul>
+  </p>
+  
+  <h3>Amazon</h3>
+  <table>
+  <tr>
+    <th>Position</th>
+    <th>Average hours/week</th>
+    <th>Location</th>
+    <th>Time</th>
+  </tr>
+  <tr>
+    <td>Picker</td>
+    <td>40</td>
+    <td>Kansas City, KS</td>
+    <td>April 2020</td>
+  </tr>
+</table>
+  
+  <h4><b>Description Of Positions</b></h3>
+  <h5><i>Picker</i></h5>
+    <p> 
+<ul>
+  <li>Amazon responsibilities included pulling warehouse items from shelves and organizing them into boxes based on number, size, colour, quantity, and quality requirements. Picked at a consistent pace of 300 items an hour.
+</li>
+</ul>
+  </p>
+  
+<h3>Dairy Queen</h3>
+  <table>
+  <tr>
+    <th>Position</th>
+    <th>Average hours/week</th>
+    <th>Location</th>
+    <th>Time</th>
+  </tr>
+  <tr>
+    <td>Crew Member</td>
+    <td>25</td>
+    <td>Raytown, MO</td>
+    <td>May 2020-August 2020</td>
+  </tr>
+</table>
+  
+  <h4><b>Description Of Positions</b></h3>
+  <h5><i>Crew Member</i></h5>
+    <p> 
+<ul>
+  <li>Dairy Queen responsibilities included operating the cash register, taking drive-thru orders, and ensuring customers received their correct orders promptly.
+</li>
+</ul>
+  </p>
+  
+  
 
-* [Meet the Golem](#Meet-the-golem)
-* [Skeleton Murders](#Skeleton-Murders)
-* [Spawning Drought](#Spawning-Drought)
-* [Growth](#Growth)
+ <p> <a href="https://www.cheddars.com/home">Cheddars Scratch Kitchen</a> </p>
+ <img src="https://user-images.githubusercontent.com/89501767/144777780-5f63e670-dc17-484d-ada5-b0d8cb52486e.jpg" alt="8">
+ 
+  <p> <a href="https://www.amazon.com/">Amazon</a> </p>
+ <img src="https://user-images.githubusercontent.com/89501767/144777895-5eb7f4dc-7c43-44e9-b379-1efbb18c7b88.jpg" alt="Ama">
+ 
+  <p> <a href="https://www.dairyqueen.com/en-us/">Dairy Queen</a> </p>
+ <img src="https://user-images.githubusercontent.com/89501767/144778002-ef62a342-479b-47ae-8e3e-41d6a2f351be.png" alt="DQ">
 
-### Meet the Golem
-In the beginning there were one iron golem in the village. He is there to protect the people. As he gets damaged, he rusts and eventually dissapears. More iron golems spawn if there is a village of people with atleast 75% of them having worked in the past day. To learn more about the iron golem, click [here.](https://minecraft.fandom.com/wiki/Iron_Golem)
-
-*Image of Golem*
-
-![Golem](https://user-images.githubusercontent.com/89501767/138540106-c4b00ab6-c614-4eb4-b6fc-6a102464665b.png)
-
-
-### Skeleton Murders
-When iron golems sense that a monster is dangerous, they attack. Because of the wall Steve built around the town, golems only have to defend inside the village. Sometimes, they will try to pick fights with mosters on the other side of the wall. Due to elevation, some skeltons have been able to shoot and murder golems. This led to a drop of amount of golems in the town. It went from five, to three. 
-
-*Example of Skeleton*
-
-![Skeleton](https://user-images.githubusercontent.com/89501767/138540159-fadcd528-6781-49fa-9642-aa1edb8c249a.jpg)
-
-
-### Spawning Drought
-For more Iron Golems to spawn, there needs to be a bed assigned to each villager. Due to a deranged villager who refused to sleep, the golems stopped spawning, and the threat of skeletons was still real. This led to Steve having to murder said villager in the night when no villagers were awake to witness.
-
-### Growth
-After the murdering of the derganged villagers, more iron golems were able to spawn. Their population is now up to 8!
-
-[top](#Golem-generator)
+</body>
+</html>
