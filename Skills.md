@@ -4,7 +4,7 @@
 <a href="README.md">Back</a></h>
 <h1>Skills</h1>
  <ol>
-  <li>Languages</li>
+  <li><b>Languages</b></li>
   <li>English</li>
   <li>Spanish</li>
 </ol>
