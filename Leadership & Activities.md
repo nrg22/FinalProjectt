@@ -1,30 +1,53 @@
-# Fletcher Fiasco
-[back to mainpage](README.md)
-## Contents
+<!DOCTYPE html>
+<html>
+<body>
+<a href="README.md">Back</a></h>
+<h1>Leadership & Activites</h1>
+ <ol>
+  <li>Association of Latin American Students</li>
+  <li>TRiO Student Support Services</li>
+  <li>Phi Alpha Delta</li>
+ 
+</ol>
+ 
+  <h3>Association of Latin American Students</h3>
+  <table>
+  <tr>
+    <th>Position</th>
+    <th>Time</th>
+  </tr>
+  <tr>
+    <td>Secretary</td>
+    <td>September 2019-May 2020</td>
+  </tr>
+  <tr>
+    <td>Treasurer</td>
+    <td>August 2020-May 2021</td>
+  </tr>
+     <tr>
+    <td>Co-President</td>
+    <td>August 2020-May 2021</td>
+  </tr>
+</table>
+  
+  <h4><b>Description Of Positions</b></h3>
+  <h5><i>Co-President</i></h5>
+    <p> 
+<ul>
+  <li>Created agendas for weekly Executive committee meetings, delegated roles, and ensured execution of events.</li>
+  <li>Held Bi-weekly general body meetings and socials over topics such as identity, media representation, college experiences, cultural celebrations, and professional development.</li>
+  <li>Met with the Vice Chancellor of Inclusion Diversity and Equity to discuss strategies to support ALAS amidst restructuring of social justice centers, and participation decrease due to the pandemic.</li>
+ 
+</ul>
+  </p>
 
-* [Meet Fletcher #1](#Meet-fletcher-#1)
-* [Fletcher #2](#Fletcher-#2)
-* [Fletcher #3](#Fletcher-#3)
-* [Rehabilitation](#Rehabilitation)
+  
+  
 
-### Meet Fletcher #1
-The fletcher is one of the most important villager roles one could have. They are responsbile for creating arrows at an affordable price, which is essential for protecting the village. He also has cheap trades like sticks, flint, and string which he will reward with gems. The first fletcher was so useful, that he was the first in the village to become a journeyman To learn more about the fletcher, click [here.](https://minecraft.fandom.com/wiki/Trading#Fletcher_2)
+ <p> <a href="https://missouri.edu/">University of Missouri-Columbia</a> </p>
+ <img src="https://user-images.githubusercontent.com/89501767/144733393-c439bb29-c481-48c4-9fed-0e15516da069.png" alt="University Of Missouri">
+ <p> <a href="https://www.raytownschools.org/rhs">Raytown High School</a> </p>
+  <img src="https://user-images.githubusercontent.com/89501767/144733455-3143c68e-b5ad-4eea-ac59-aa6fb34bc9c5.jpg" alt="Raytown High School">
 
-*Image of Fletcher*
-
-![Fletcher](https://user-images.githubusercontent.com/89501767/138540553-059b296a-2484-4de4-bcc2-749bf5d753a3.jpg)
-
-### Fletcher #2
-Fletcher #2 came as a surprise. Steve thought that the first fletcher had demoted himself since he hadn't been traded with for so very long. After making multiple trades with the second fletcher, Steve found the first fletcher trapped in the tower with no escape. Steve went and killed the other fletcher who had been an imposter. The nitwit saw this, and Steve was forced to kill them too. If the nitwit talked, the whole town would tax Steve and the village would fall into a depression.
-
-
-### Fletcher #3
-Fletcher #3 came after the murder of Fletcher #2. Fletcher #1 was too scared to go back to work, so the shephard let go of his post and become a fletcher. Since this would be too many fletchers needed, Steve also decided to kill Fletcher #3 thinking he was still the second. After realizing that his was the fletcher, Steve had no choice but to rehabilitate the orginal fletcher so that arrows could start being made again.
-
-### Rehabilitation
-After a long convincing, Steve was able to bring the fletcher #1 back to his work station. He works there now, with no others trying to take his craft.
-
-*Image of fletcher **workblock***
-![FLetching table](https://user-images.githubusercontent.com/89501767/138540706-805e1d6d-3e2d-4987-b7c3-a2eb077d6a75.jpg)
-
-[top](#Fletcher-Fiasco)
+</body>
+</html>
