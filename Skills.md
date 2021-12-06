@@ -68,18 +68,10 @@
   <li>Wrote Essays over Spanish literature from different time periods and countries.</li>
 </ul>
   </p>
-  
  
- 
- 
- <p> <a href="https://www.cheddars.com/home">Cheddars Scratch Kitchen</a> </p>
- <img src="https://user-images.githubusercontent.com/89501767/144777780-5f63e670-dc17-484d-ada5-b0d8cb52486e.jpg" alt="8">
- 
-  <p> <a href="https://www.amazon.com/">Amazon</a> </p>
- <img src="https://user-images.githubusercontent.com/89501767/144777895-5eb7f4dc-7c43-44e9-b379-1efbb18c7b88.jpg" alt="Ama">
- 
-  <p> <a href="https://www.dairyqueen.com/en-us/">Dairy Queen</a> </p>
- <img src="https://user-images.githubusercontent.com/89501767/144778002-ef62a342-479b-47ae-8e3e-41d6a2f351be.png" alt="DQ">
+ <p> <a href="https://www.duolingo.com/">Learn Another Language!</a> </p>
+ <img src="https://user-images.githubusercontent.com/89501767/144781587-d61fc580-6b50-48d4-893a-d2f3e6379c32.jpg" alt="2">
+
 
 </body>
 </html>
