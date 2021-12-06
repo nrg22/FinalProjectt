@@ -31,6 +31,18 @@
 </table>
   
   <h4><b>Description Of Positions</b></h3>
+  <h5><i>Secretary</i></h5>
+    <p> 
+<ul>
+  <li>Took minutes at weekly meetings and held Executive members accountable for their responsibilities.</li>
+</ul>
+  </p>
+   <h5><i>Treasurer</i></h5>
+    <p> 
+<ul>
+  <li>Managed and organized budget decisions and communicated with University officials for budget approvals.</li>
+</ul>
+  </p>
   <h5><i>Co-President</i></h5>
     <p> 
 <ul>
@@ -40,6 +52,60 @@
  
 </ul>
   </p>
+  
+   <h3>TRiO Student Support Services</h3>
+  <table>
+  <tr>
+    <th>Position</th>
+    <th>Time</th>
+  </tr>
+  <tr>
+    <td>Member</td>
+    <td>August 2019-Present</td>
+  </tr>
+  <tr>
+    <td>Peer Mentor</td>
+    <td>August 2020-Present</td>
+  </tr>
+</table>
+  
+  <h4><b>Description Of Positions</b></h3>
+  <h5><i>Member</i></h5>
+    <p> 
+<ul>
+  <li>Attended workshops, networking events, and got access to extra resources such as free tutoring.</li>
+</ul>
+  </p>
+  <h5><i>Peer Mentor</i></h5>
+    <p> 
+<ul>
+  <li>Attended weekly training meetings, held weekly office hours, and maintained documentation for federally sponsored grant program.
+</li>
+ <li>Advised underrepresented students on strategies to balance college demands and helped connect students with campus resources and organizations
+</li>
+</ul>
+  </p>
+ 
+  <h3>Phi Alpha Delta</h3>
+  <table>
+  <tr>
+    <th>Position</th>
+    <th>Time</th>
+  </tr>
+  <tr>
+    <td>Member</td>
+    <td>September 2019-Present</td>
+  </tr>
+</table>
+  
+  <h4><b>Description Of Positions</b></h3>
+  <h5><i>Member</i></h5>
+    <p> 
+<ul>
+  <li>Attended webinars for further professional development concerning the legal profession</li>
+</ul>
+  </p>
+
 
   
   
