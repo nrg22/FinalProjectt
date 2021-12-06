@@ -22,7 +22,7 @@
     <td>Exposition and Argumentation, The Early Modern World, Cases and Contracts</td>
   </tr>
     <tr>
-    <td>Spanishh</td>
+    <td>Spanish</td>
     <td>Fluent</td>
     <td>Spanish 1, Spanish 2, Spanish 3, Advanced Spanish Composition</td>
   </tr>
