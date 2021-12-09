@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<body>
+<body style="background-color:Gray;">
 <a href="README.md">Back</a></h>
-<h1 style="background-color:Gray;">Education</h1>
+<h1 style="color:Tomato;">Education</h1>
  <ol>
   <li>General</li>
   <li>Relevant Coursework</li>
@@ -38,7 +38,7 @@
   <ul>
   <li>Arts and Science Dean's List all semesters</li>
   <li>Completed 12 hours of Honor’s College coursework/li>
-  <li>Mike Podgursky Scholars Award: nominated by instructor for academic excellence in principles of Economics <i>(February 2021)</i>/li>
+   <li><b>Mike Podgursky Scholars Award</b>: nominated by instructor for academic excellence in principles of Economics <i>(February 2021)</i>/li>
 </ul>
   <h3>High School</h3>
 <table>
