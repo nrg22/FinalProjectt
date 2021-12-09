@@ -2,7 +2,7 @@
 <html>
 <body>
 <a href="README.md">Back</a></h>
-<h1>Education</h1>
+<h1 style="background-color:Gray;">Education</h1>
  <ol>
   <li>General</li>
   <li>Relevant Coursework</li>
