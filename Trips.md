@@ -28,7 +28,7 @@
 <ul>
     <li>Hiked on the Goat Trail.</li>
     <li>Chopped a tree down by throwing rocks at it.</li>
-    <li>Canoed on the Buffalo River <i>(flipped over three times</i>.</li>
+    <li>Canoed on the Buffalo River <i>(flipped over three times)</i>.</li>
 </ul>
 
      <h3>Texas</h3>
@@ -50,7 +50,7 @@
 <ul>
     <li>Competed in Lincoln Douglas Debate.</li>
     <li>Explored the Downtown area.</li>
-    <li>Advanced five rounds into double elimination <i>(top 30 in the nation</i>.</li>
+    <li>Advanced five rounds into double elimination <i>(top 30 in the nation)</i>.</li>
 </ul>
     
 <h3>Missouri</h3>
