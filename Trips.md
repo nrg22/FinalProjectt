@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<body>
+<body style="background-color:Teal;">
 <a href="README.md">Back</a></h>
-<h1>Skills</h1>
+<h1 style="color:LightPink;">Skills</h1>
  <ol>
   <li>Arkansas</li>
   <li>Texas</li>
