@@ -13,7 +13,6 @@
 
 
 <p>Photo of me:</p>
-https://user-images.githubusercontent.com/89501767/145317816-31869f1d-9b60-40e4-ad64-fa227c6507ec.jpg
-
+<img src="https://user-images.githubusercontent.com/89501767/145317816-31869f1d-9b60-40e4-ad64-fa227c6507ec.jpg" alt="Neftali Ruiz">
 </body>
 </html>
