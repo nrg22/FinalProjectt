@@ -12,7 +12,8 @@
 <h3><a href="Trips.md">Trips</a></h3>
 
 
-<p></p>
+<p>Photo of me:</p>
+https://user-images.githubusercontent.com/89501767/145317816-31869f1d-9b60-40e4-ad64-fa227c6507ec.jpg
 
 </body>
 </html>
