@@ -1,6 +1,9 @@
 # FinalProject
 <!DOCTYPE html>
 <html>
+  <head>
+<link rel="stylesheet" href="mystyle.css">
+</head>
 <body style="background-color:Orange;">
 
 <h1 style="border:2px solid DodgerBlue;">Neftali Ruiz</h1>
