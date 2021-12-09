@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+ <head>
+<link rel="stylesheet" href="mystyle.css">
+</head>
 <body style="background-color:Teal;">
 <a href="README.md">Back</a></h>
 <h1 style="color:LightPink;">Skills</h1>
