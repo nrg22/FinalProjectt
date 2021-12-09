@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<body>
+<body style="background-color:Violet;">
 <a href="README.md">Back</a></h>
-<h1>Leadership & Activites</h1>
+<h1 style="color:MediumSeaGreen;">Leadership & Activites</h1>
  <ol>
   <li>Association of Latin American Students</li>
   <li>TRiO Student Support Services</li>
@@ -48,7 +48,7 @@
 <ul>
   <li>Created agendas for weekly Executive committee meetings, delegated roles, and ensured execution of events.</li>
   <li>Held Bi-weekly general body meetings and socials over topics such as identity, media representation, college experiences, cultural celebrations, and professional development.</li>
-  <li>Met with the Vice Chancellor of Inclusion Diversity and Equity to discuss strategies to support ALAS amidst restructuring of social justice centers, and participation decrease due to the pandemic.</li>
+ <li>Met with the <b>Vice Chancellor of Inclusion Diversity and Equity</b> to discuss strategies to support ALAS amidst restructuring of social justice centers, and participation decrease due to the pandemic.</li>
  
 </ul>
   </p>
