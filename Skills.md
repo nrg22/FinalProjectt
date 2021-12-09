@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<body>
+<body style="background-color:Maroon;">
 <a href="README.md">Back</a></h>
-<h1>Skills</h1>
+<h1 style="color:DarkGreen;">Skills</h1>
  <ol>
   <li><b>Languages</b></li>
   <li>English</li>
