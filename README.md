@@ -3,7 +3,7 @@
 <html>
 <body>
 
-<h1>Neftali Ruiz</h1>
+<h1>style="background-color:Orange;">Neftali Ruiz</h1>
 <h2>Student at the University of Missouri-Columbia</h2>
 <h3><a href="Education.md">Education</a></h>
 <h3><a href="Leadership & Activities.md">Leadership & Activities</a></h3>
