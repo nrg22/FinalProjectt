@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+ <head>
+<link rel="stylesheet" href="mystyle.css">
+</head>
 <body style="background-color:Gray;">
 <a href="README.md">Back</a></h>
 <h1 style="color:Tomato;">Education</h1>
