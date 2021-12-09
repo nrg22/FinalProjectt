@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<body>
+<body style="background-color:Coral;">
 <a href="README.md">Back</a></h>
-<h1>Work Experience</h1>
+<h1 style="color:Crimson;">Work Experience</h1>
  <ol>
   <li>Cheddars Scratch Kitchen</li>
   <li>Amazon</li>
