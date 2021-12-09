@@ -1,7 +1,7 @@
 # FinalProject
 <!DOCTYPE html>
 <html>
-<body>
+<body style="background-color:Orange;">
 
 <h1 style="border:2px solid DodgerBlue;">Neftali Ruiz</h1>
 <h2 style="color:DodgerBlue;">Student at the University of Missouri-Columbia</h2>
